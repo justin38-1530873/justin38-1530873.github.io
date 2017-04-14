@@ -6,6 +6,7 @@
 	border:solid 8px black;
 	text-align: center;
 	background-color: yellow;
+	border-style: dotted dashed solid double;
 }
 #Header h1{
 	font-family: verdana;
@@ -40,6 +41,7 @@
 ul{
 	list-style-type:  none;
 	padding-left: 0px;
+	list-style-type: circle;
 
 }
 
@@ -66,3 +68,6 @@ a:hover {
 a:active {
     color: green;
 }
+
+
+
