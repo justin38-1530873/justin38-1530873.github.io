@@ -39,16 +39,20 @@
 }
 
 
-#picture{
+.picture{
 	width: 300px;
 	margin-left:20px;
 	margin-right: 20px;
 	margin-bottom: 20px;
 	border: dotted;
-
+	border-style: dotted dashed solid double;
 
 }
+.text {
+	position:absolute;
+	top:30px;
 
+}
 
 
 p{
