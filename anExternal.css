@@ -40,12 +40,17 @@
 
 
 .picture{
-	width: 300px;
-	margin-left:20px;
-	margin-right: 20px;
-	margin-bottom: 20px;
-	border: dotted;
-	border-style: dotted dashed solid double;
+	width: 400px;
+	margin-left:auto;
+	margin-right: auto;
+	margin-bottom:10px;
+	border: solid 8px blue;
+	border-right-color: red;
+	border-left-color: red;
+	float: left;
+	text-align: center;
+	padding-bottom: 8px;
+	background-color: red;
 
 }
 .text {
