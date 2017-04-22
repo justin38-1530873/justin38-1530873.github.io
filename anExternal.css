@@ -13,7 +13,13 @@
 	font-size: 40px;
 	font-weight: bold;
 }
-
+#picture{ 
+	width: 300px; 
+	margin-left:20px; 
+	margin-right: 20px; 
+	margin-bottom: 20px; 
+	border: dotted; 
+}
 #LeftNav{
 	width: 400px;
 	margin-left:auto;
